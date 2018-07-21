@@ -1,12 +1,8 @@
 INDEX VERSION 1.4+C:\Users\psyoo\Desktop\금오공대관련\전공\Github_psy\LauguageStudy\JSP\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-2587974707.index
-2682545969.index
-1292026291.index
-1431050421.index
-3557527561.index
-973467941.index
-2757846150.index
-75141784.index
-2058015610.index
 253932252.index
+1431050421.index
+75141784.index
+2587974707.index
+2058015610.index
+2682545969.index
 705224081.index
