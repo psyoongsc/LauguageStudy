@@ -1,0 +1,9 @@
+c:\users\성용\documents\visual studio 2013\Projects\ThemaTest\ThemaTest\bin\Debug\ThemaTest.exe.config
+c:\users\성용\documents\visual studio 2013\Projects\ThemaTest\ThemaTest\bin\Debug\ThemaTest.exe
+c:\users\성용\documents\visual studio 2013\Projects\ThemaTest\ThemaTest\bin\Debug\ThemaTest.pdb
+c:\users\성용\documents\visual studio 2013\Projects\ThemaTest\ThemaTest\obj\Debug\ThemaTest.csprojResolveAssemblyReference.cache
+c:\users\성용\documents\visual studio 2013\Projects\ThemaTest\ThemaTest\obj\Debug\ThemaTest.Properties.Resources.resources
+c:\users\성용\documents\visual studio 2013\Projects\ThemaTest\ThemaTest\obj\Debug\ThemaTest.csproj.GenerateResource.Cache
+c:\users\성용\documents\visual studio 2013\Projects\ThemaTest\ThemaTest\obj\Debug\ThemaTest.exe
+c:\users\성용\documents\visual studio 2013\Projects\ThemaTest\ThemaTest\obj\Debug\ThemaTest.pdb
+c:\users\성용\documents\visual studio 2013\Projects\ThemaTest\ThemaTest\obj\Debug\ThemaTest.Form1.resources

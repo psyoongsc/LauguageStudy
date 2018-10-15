@@ -1,0 +1,8 @@
+[07:16:37] [Client thread/INFO]: LiteLoader is shutting down, shutting down core providers and syncing configuration
+[07:16:37] [Client thread/INFO]: Baking listener list for ShutdownObserver with 2 listeners
+[07:16:37] [Client thread/INFO]: Stopping!
+[07:16:37] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[07:16:37] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: SoundSystem shutting down...
+[07:16:38] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:importantMessage:90]:     Author: Paul Lamb, www.paulscode.com
+[07:16:38] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[07:16:38] [JM-svr-2/INFO]: Stopped webserver without errors

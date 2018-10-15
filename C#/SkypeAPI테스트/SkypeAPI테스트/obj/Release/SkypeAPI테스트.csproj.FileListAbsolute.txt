@@ -1,0 +1,11 @@
+C:\Users\박성용\documents\visual studio 2013\Projects\SkypeAPI테스트\SkypeAPI테스트\bin\Release\SkypeAPI테스트.exe.config
+C:\Users\박성용\documents\visual studio 2013\Projects\SkypeAPI테스트\SkypeAPI테스트\obj\Release\Interop.SKYPE4COMLib.dll
+C:\Users\박성용\documents\visual studio 2013\Projects\SkypeAPI테스트\SkypeAPI테스트\obj\Release\SkypeAPI테스트.csproj.ResolveComReference.cache
+C:\Users\박성용\documents\visual studio 2013\Projects\SkypeAPI테스트\SkypeAPI테스트\bin\Release\SkypeAPI테스트.exe
+C:\Users\박성용\documents\visual studio 2013\Projects\SkypeAPI테스트\SkypeAPI테스트\bin\Release\SkypeAPI테스트.pdb
+C:\Users\박성용\documents\visual studio 2013\Projects\SkypeAPI테스트\SkypeAPI테스트\obj\Release\SkypeAPI테스트.Form1.resources
+C:\Users\박성용\documents\visual studio 2013\Projects\SkypeAPI테스트\SkypeAPI테스트\obj\Release\SkypeAPI테스트.Properties.Resources.resources
+C:\Users\박성용\documents\visual studio 2013\Projects\SkypeAPI테스트\SkypeAPI테스트\obj\Release\SkypeAPI테스트.csproj.GenerateResource.Cache
+C:\Users\박성용\documents\visual studio 2013\Projects\SkypeAPI테스트\SkypeAPI테스트\obj\Release\SkypeAPI테스트.exe
+C:\Users\박성용\documents\visual studio 2013\Projects\SkypeAPI테스트\SkypeAPI테스트\obj\Release\SkypeAPI테스트.pdb
+C:\Users\박성용\Documents\Visual Studio 2013\Projects\SkypeAPI테스트\SkypeAPI테스트\obj\Release\SkypeAPI테스트.csprojResolveAssemblyReference.cache

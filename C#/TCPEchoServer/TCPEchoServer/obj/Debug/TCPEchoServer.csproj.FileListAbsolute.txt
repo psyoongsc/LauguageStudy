@@ -1,0 +1,5 @@
+C:\Users\박성용\Documents\Visual Studio 2013\Projects\TCPEchoServer\TCPEchoServer\obj\Debug\TCPEchoServer.exe
+C:\Users\박성용\Documents\Visual Studio 2013\Projects\TCPEchoServer\TCPEchoServer\obj\Debug\TCPEchoServer.pdb
+C:\Users\박성용\Documents\Visual Studio 2013\Projects\TCPEchoServer\TCPEchoServer\bin\Debug\TCPEchoServer.exe
+C:\Users\박성용\Documents\Visual Studio 2013\Projects\TCPEchoServer\TCPEchoServer\bin\Debug\TCPEchoServer.pdb
+C:\Users\박성용\Documents\Visual Studio 2013\Projects\TCPEchoServer\TCPEchoServer\obj\Debug\TCPEchoServer.csprojResolveAssemblyReference.cache

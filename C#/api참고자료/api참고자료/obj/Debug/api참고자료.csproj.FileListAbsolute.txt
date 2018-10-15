@@ -1,0 +1,11 @@
+c:\users\성용\documents\visual studio 2013\Projects\api참고자료\api참고자료\bin\Debug\api참고자료.exe.config
+c:\users\성용\documents\visual studio 2013\Projects\api참고자료\api참고자료\bin\Debug\api참고자료.exe
+c:\users\성용\documents\visual studio 2013\Projects\api참고자료\api참고자료\bin\Debug\api참고자료.pdb
+c:\users\성용\documents\visual studio 2013\Projects\api참고자료\api참고자료\obj\Debug\api참고자료.csprojResolveAssemblyReference.cache
+c:\users\성용\documents\visual studio 2013\Projects\api참고자료\api참고자료\obj\Debug\Interop.SKYPE4COMLib.dll
+c:\users\성용\documents\visual studio 2013\Projects\api참고자료\api참고자료\obj\Debug\api참고자료.csproj.ResolveComReference.cache
+c:\users\성용\documents\visual studio 2013\Projects\api참고자료\api참고자료\obj\Debug\api참고자료.Form1.resources
+c:\users\성용\documents\visual studio 2013\Projects\api참고자료\api참고자료\obj\Debug\api참고자료.Properties.Resources.resources
+c:\users\성용\documents\visual studio 2013\Projects\api참고자료\api참고자료\obj\Debug\api참고자료.csproj.GenerateResource.Cache
+c:\users\성용\documents\visual studio 2013\Projects\api참고자료\api참고자료\obj\Debug\api참고자료.exe
+c:\users\성용\documents\visual studio 2013\Projects\api참고자료\api참고자료\obj\Debug\api참고자료.pdb

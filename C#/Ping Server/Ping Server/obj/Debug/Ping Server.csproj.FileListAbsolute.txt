@@ -1,0 +1,7 @@
+c:\users\psyoo\documents\visual studio 2013\Projects\Ping Server\Ping Server\bin\Debug\Ping Server.exe.config
+c:\users\psyoo\documents\visual studio 2013\Projects\Ping Server\Ping Server\bin\Debug\Ping Server.exe
+c:\users\psyoo\documents\visual studio 2013\Projects\Ping Server\Ping Server\bin\Debug\Ping Server.pdb
+c:\users\psyoo\documents\visual studio 2013\Projects\Ping Server\Ping Server\bin\Debug\wrapped.dll
+c:\users\psyoo\documents\visual studio 2013\Projects\Ping Server\Ping Server\obj\Debug\Ping Server.csprojResolveAssemblyReference.cache
+c:\users\psyoo\documents\visual studio 2013\Projects\Ping Server\Ping Server\obj\Debug\Ping Server.exe
+c:\users\psyoo\documents\visual studio 2013\Projects\Ping Server\Ping Server\obj\Debug\Ping Server.pdb

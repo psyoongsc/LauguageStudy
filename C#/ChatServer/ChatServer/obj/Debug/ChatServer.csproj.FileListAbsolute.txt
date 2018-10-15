@@ -1,0 +1,9 @@
+c:\users\성용\documents\visual studio 2013\Projects\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+c:\users\성용\documents\visual studio 2013\Projects\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+c:\users\성용\documents\visual studio 2013\Projects\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+c:\users\성용\documents\visual studio 2013\Projects\ChatServer\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+c:\users\성용\documents\visual studio 2013\Projects\ChatServer\ChatServer\obj\Debug\ChatServer.MainForm.resources
+c:\users\성용\documents\visual studio 2013\Projects\ChatServer\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+c:\users\성용\documents\visual studio 2013\Projects\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.Cache
+c:\users\성용\documents\visual studio 2013\Projects\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+c:\users\성용\documents\visual studio 2013\Projects\ChatServer\ChatServer\obj\Debug\ChatServer.pdb

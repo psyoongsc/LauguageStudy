@@ -1,0 +1,24 @@
+﻿빌드 시작: 2016-05-25 오후 5:50:30
+     1>2 노드의 "c:\Users\psyoo\documents\visual studio 2013\Projects\Winsock Server\Winsock Server\Winsock Server.vcxproj" 프로젝트(Build 대상)입니다.
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\psyoo\documents\visual studio 2013\Projects\Winsock Server\Debug\Winsock Server.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\psyoo\documents\visual studio 2013\Projects\Winsock Server\Debug\Winsock Server.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\psyoo\documents\visual studio 2013\Projects\Winsock Server\Debug\Winsock Server.lib" /MACHINE:X86 Debug\stdafx.obj
+         "Debug\Winsock Server.obj"
+     1>Winsock Server.obj : error LNK2019: __imp__accept@12 외부 기호(참조 위치: _wmain 함수)에서 확인하지 못했습니다.
+     1>Winsock Server.obj : error LNK2019: __imp__bind@12 외부 기호(참조 위치: _wmain 함수)에서 확인하지 못했습니다.
+     1>Winsock Server.obj : error LNK2019: __imp__closesocket@4 외부 기호(참조 위치: _wmain 함수)에서 확인하지 못했습니다.
+     1>Winsock Server.obj : error LNK2019: __imp__htonl@4 외부 기호(참조 위치: _wmain 함수)에서 확인하지 못했습니다.
+     1>Winsock Server.obj : error LNK2019: __imp__htons@4 외부 기호(참조 위치: _wmain 함수)에서 확인하지 못했습니다.
+     1>Winsock Server.obj : error LNK2019: __imp__inet_ntoa@4 외부 기호(참조 위치: _wmain 함수)에서 확인하지 못했습니다.
+     1>Winsock Server.obj : error LNK2019: __imp__listen@8 외부 기호(참조 위치: _wmain 함수)에서 확인하지 못했습니다.
+     1>Winsock Server.obj : error LNK2019: __imp__ntohs@4 외부 기호(참조 위치: _wmain 함수)에서 확인하지 못했습니다.
+     1>Winsock Server.obj : error LNK2019: __imp__recv@16 외부 기호(참조 위치: _wmain 함수)에서 확인하지 못했습니다.
+     1>Winsock Server.obj : error LNK2019: __imp__socket@12 외부 기호(참조 위치: _wmain 함수)에서 확인하지 못했습니다.
+     1>Winsock Server.obj : error LNK2019: __imp__WSAStartup@8 외부 기호(참조 위치: _wmain 함수)에서 확인하지 못했습니다.
+     1>Winsock Server.obj : error LNK2019: __imp__WSACleanup@0 외부 기호(참조 위치: _wmain 함수)에서 확인하지 못했습니다.
+     1>Winsock Server.obj : error LNK2019: __imp__WSAGetLastError@0 외부 기호(참조 위치: "void __cdecl err_display(char *)" (?err_display@@YAXPAD@Z) 함수)에서 확인하지 못했습니다.
+     1>c:\users\psyoo\documents\visual studio 2013\Projects\Winsock Server\Debug\Winsock Server.exe : fatal error LNK1120: 13개의 확인할 수 없는 외부 참조입니다.
+     1>"c:\Users\psyoo\documents\visual studio 2013\Projects\Winsock Server\Winsock Server\Winsock Server.vcxproj" 프로젝트를 빌드했습니다(Build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:00.22

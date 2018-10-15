@@ -1,0 +1,9 @@
+C:\Users\psyoo\documents\visual studio 2013\Projects\FTPConsole\FTPConsole\bin\Release\FTPConsole.exe.config
+C:\Users\psyoo\documents\visual studio 2013\Projects\FTPConsole\FTPConsole\bin\Release\FTPConsole.exe
+C:\Users\psyoo\documents\visual studio 2013\Projects\FTPConsole\FTPConsole\bin\Release\FTPConsole.pdb
+C:\Users\psyoo\documents\visual studio 2013\Projects\FTPConsole\FTPConsole\obj\Release\FTPConsole.Form1.resources
+C:\Users\psyoo\documents\visual studio 2013\Projects\FTPConsole\FTPConsole\obj\Release\FTPConsole.Properties.Resources.resources
+C:\Users\psyoo\documents\visual studio 2013\Projects\FTPConsole\FTPConsole\obj\Release\FTPConsole.csproj.GenerateResource.Cache
+C:\Users\psyoo\documents\visual studio 2013\Projects\FTPConsole\FTPConsole\obj\Release\FTPConsole.exe
+C:\Users\psyoo\documents\visual studio 2013\Projects\FTPConsole\FTPConsole\obj\Release\FTPConsole.pdb
+C:\Users\psyoo\Documents\Visual Studio 2013\Projects\FTPConsole\FTPConsole\obj\Release\FTPConsole.csprojResolveAssemblyReference.cache

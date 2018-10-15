@@ -1,0 +1,3 @@
+﻿  4673.cpp
+c:\users\psyoo\source\repos\baekjoon_solution\baekjoon_solution\4673.cpp(10): warning C4101: 'point' :참조되지 않은 지역 변수입니다.
+  baekjoon_solution.vcxproj -> C:\Users\psyoo\source\repos\baekjoon_solution\Debug\baekjoon_solution.exe

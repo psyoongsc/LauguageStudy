@@ -1,0 +1,12 @@
+c:\users\박성용\documents\visual studio 2013\Projects\FilteringSample\FilteringSample\bin\Debug\FilteringSample.exe.config
+c:\users\박성용\documents\visual studio 2013\Projects\FilteringSample\FilteringSample\bin\Debug\FilteringSample.exe
+c:\users\박성용\documents\visual studio 2013\Projects\FilteringSample\FilteringSample\bin\Debug\FilteringSample.pdb
+c:\users\박성용\documents\visual studio 2013\Projects\FilteringSample\FilteringSample\obj\Debug\MainWindow.baml
+c:\users\박성용\documents\visual studio 2013\Projects\FilteringSample\FilteringSample\obj\Debug\MainWindow.g.cs
+c:\users\박성용\documents\visual studio 2013\Projects\FilteringSample\FilteringSample\obj\Debug\App.g.cs
+c:\users\박성용\documents\visual studio 2013\Projects\FilteringSample\FilteringSample\obj\Debug\FilteringSample_MarkupCompile.cache
+c:\users\박성용\documents\visual studio 2013\Projects\FilteringSample\FilteringSample\obj\Debug\FilteringSample.g.resources
+c:\users\박성용\documents\visual studio 2013\Projects\FilteringSample\FilteringSample\obj\Debug\FilteringSample.Properties.Resources.resources
+c:\users\박성용\documents\visual studio 2013\Projects\FilteringSample\FilteringSample\obj\Debug\FilteringSample.csproj.GenerateResource.Cache
+c:\users\박성용\documents\visual studio 2013\Projects\FilteringSample\FilteringSample\obj\Debug\FilteringSample.exe
+c:\users\박성용\documents\visual studio 2013\Projects\FilteringSample\FilteringSample\obj\Debug\FilteringSample.pdb

@@ -1,0 +1,10 @@
+c:\users\psyoo\documents\visual studio 2013\Projects\[Alpha]Luos Launcher\[Alpha]Luos Launcher\bin\Debug\[Alpha]Luos Launcher.exe.config
+c:\users\psyoo\documents\visual studio 2013\Projects\[Alpha]Luos Launcher\[Alpha]Luos Launcher\bin\Debug\[Alpha]Luos Launcher.exe
+c:\users\psyoo\documents\visual studio 2013\Projects\[Alpha]Luos Launcher\[Alpha]Luos Launcher\bin\Debug\[Alpha]Luos Launcher.pdb
+c:\users\psyoo\documents\visual studio 2013\Projects\[Alpha]Luos Launcher\[Alpha]Luos Launcher\obj\Debug\[Alpha]Luos Launcher.csprojResolveAssemblyReference.cache
+c:\users\psyoo\documents\visual studio 2013\Projects\[Alpha]Luos Launcher\[Alpha]Luos Launcher\obj\Debug\_Alpha_Luos_Launcher.Main.resources
+c:\users\psyoo\documents\visual studio 2013\Projects\[Alpha]Luos Launcher\[Alpha]Luos Launcher\obj\Debug\_Alpha_Luos_Launcher.Properties.Resources.resources
+c:\users\psyoo\documents\visual studio 2013\Projects\[Alpha]Luos Launcher\[Alpha]Luos Launcher\obj\Debug\[Alpha]Luos Launcher.csproj.GenerateResource.Cache
+c:\users\psyoo\documents\visual studio 2013\Projects\[Alpha]Luos Launcher\[Alpha]Luos Launcher\obj\Debug\[Alpha]Luos Launcher.exe
+c:\users\psyoo\documents\visual studio 2013\Projects\[Alpha]Luos Launcher\[Alpha]Luos Launcher\obj\Debug\[Alpha]Luos Launcher.pdb
+c:\users\psyoo\documents\visual studio 2013\Projects\[Alpha]Luos Launcher\[Alpha]Luos Launcher\obj\Debug\_Alpha_Luos_Launcher.Login.resources

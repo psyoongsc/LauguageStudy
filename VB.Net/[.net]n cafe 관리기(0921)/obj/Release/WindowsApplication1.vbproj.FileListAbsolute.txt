@@ -1,0 +1,13 @@
+C:\Users\박성용\Documents\Visual Studio 2013\Projects\[.net]n cafe 관리기(0921)\bin\Release\N Cafe 관리기.exe.config
+C:\Users\박성용\Documents\Visual Studio 2013\Projects\[.net]n cafe 관리기(0921)\obj\Release\Interop.WinHttp.dll
+C:\Users\박성용\Documents\Visual Studio 2013\Projects\[.net]n cafe 관리기(0921)\obj\Release\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\박성용\Documents\Visual Studio 2013\Projects\[.net]n cafe 관리기(0921)\bin\Release\N Cafe 관리기.exe
+C:\Users\박성용\Documents\Visual Studio 2013\Projects\[.net]n cafe 관리기(0921)\bin\Release\N Cafe 관리기.pdb
+C:\Users\박성용\Documents\Visual Studio 2013\Projects\[.net]n cafe 관리기(0921)\bin\Release\N Cafe 관리기.xml
+C:\Users\박성용\Documents\Visual Studio 2013\Projects\[.net]n cafe 관리기(0921)\obj\Release\NCafe.frmMain.resources
+C:\Users\박성용\Documents\Visual Studio 2013\Projects\[.net]n cafe 관리기(0921)\obj\Release\NCafe.OptionFrm.resources
+C:\Users\박성용\Documents\Visual Studio 2013\Projects\[.net]n cafe 관리기(0921)\obj\Release\NCafe.Resources.resources
+C:\Users\박성용\Documents\Visual Studio 2013\Projects\[.net]n cafe 관리기(0921)\obj\Release\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\박성용\Documents\Visual Studio 2013\Projects\[.net]n cafe 관리기(0921)\obj\Release\N Cafe 관리기.exe
+C:\Users\박성용\Documents\Visual Studio 2013\Projects\[.net]n cafe 관리기(0921)\obj\Release\N Cafe 관리기.xml
+C:\Users\박성용\Documents\Visual Studio 2013\Projects\[.net]n cafe 관리기(0921)\obj\Release\N Cafe 관리기.pdb

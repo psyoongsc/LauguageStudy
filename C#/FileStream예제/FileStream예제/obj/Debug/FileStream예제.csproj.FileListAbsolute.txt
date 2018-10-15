@@ -1,0 +1,6 @@
+c:\users\psyoo\documents\visual studio 2013\Projects\FileStream예제\FileStream예제\bin\Debug\FileStream예제.exe.config
+c:\users\psyoo\documents\visual studio 2013\Projects\FileStream예제\FileStream예제\bin\Debug\FileStream예제.exe
+c:\users\psyoo\documents\visual studio 2013\Projects\FileStream예제\FileStream예제\bin\Debug\FileStream예제.pdb
+c:\users\psyoo\documents\visual studio 2013\Projects\FileStream예제\FileStream예제\obj\Debug\FileStream예제.csprojResolveAssemblyReference.cache
+c:\users\psyoo\documents\visual studio 2013\Projects\FileStream예제\FileStream예제\obj\Debug\FileStream예제.exe
+c:\users\psyoo\documents\visual studio 2013\Projects\FileStream예제\FileStream예제\obj\Debug\FileStream예제.pdb

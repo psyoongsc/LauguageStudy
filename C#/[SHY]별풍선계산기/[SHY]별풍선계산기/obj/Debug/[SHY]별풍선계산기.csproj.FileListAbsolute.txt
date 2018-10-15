@@ -1,0 +1,9 @@
+C:\Users\psyoo\Documents\Visual Studio 2013\Projects\[SHY]별풍선계산기\[SHY]별풍선계산기\bin\Debug\[SHY]별풍선계산기.exe.config
+C:\Users\psyoo\Documents\Visual Studio 2013\Projects\[SHY]별풍선계산기\[SHY]별풍선계산기\bin\Debug\[SHY]별풍선계산기.exe
+C:\Users\psyoo\Documents\Visual Studio 2013\Projects\[SHY]별풍선계산기\[SHY]별풍선계산기\bin\Debug\[SHY]별풍선계산기.pdb
+C:\Users\psyoo\Documents\Visual Studio 2013\Projects\[SHY]별풍선계산기\[SHY]별풍선계산기\obj\Debug\[SHY]별풍선계산기.csprojResolveAssemblyReference.cache
+C:\Users\psyoo\Documents\Visual Studio 2013\Projects\[SHY]별풍선계산기\[SHY]별풍선계산기\obj\Debug\_SHY_별풍선계산기.Form1.resources
+C:\Users\psyoo\Documents\Visual Studio 2013\Projects\[SHY]별풍선계산기\[SHY]별풍선계산기\obj\Debug\_SHY_별풍선계산기.Properties.Resources.resources
+C:\Users\psyoo\Documents\Visual Studio 2013\Projects\[SHY]별풍선계산기\[SHY]별풍선계산기\obj\Debug\[SHY]별풍선계산기.csproj.GenerateResource.Cache
+C:\Users\psyoo\Documents\Visual Studio 2013\Projects\[SHY]별풍선계산기\[SHY]별풍선계산기\obj\Debug\[SHY]별풍선계산기.exe
+C:\Users\psyoo\Documents\Visual Studio 2013\Projects\[SHY]별풍선계산기\[SHY]별풍선계산기\obj\Debug\[SHY]별풍선계산기.pdb
