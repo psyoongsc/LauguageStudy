@@ -1,9 +1,14 @@
 //블록체인 데이터 구조
 const sha256 = require('sha256');
 
+const currentNodeUrl = process.argv[3];
+
 function BlockChain() {
     this.chain = [];
     this.pendingTransactions = [];
+
+    this.currentNodeUrl = currentNodeUrl;
+    this.networkNodes = [];
 
     this.createNewBlock(100, 0, 0);
 }
