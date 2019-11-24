@@ -32,12 +32,12 @@ public:
 	friend ostream& operator <<(ostream& outputStream, const MyString &ms);
 	friend istream& operator >>(istream& inputStream, MyString &ms);
 
-	bool operator ==(const MyString &ms);
-	bool operator !=(const MyString &ms);
-	bool operator <(const MyString &ms);
-	bool operator <=(const MyString &ms);
-	bool operator >=(const MyString &ms);
-	bool operator >(const MyString &ms);
+	bool operator ==(const MyString &ms) const;
+	bool operator !=(const MyString &ms) const;
+	bool operator <(const MyString &ms) const;
+	bool operator <=(const MyString &ms) const;
+	bool operator >=(const MyString &ms) const;
+	bool operator >(const MyString &ms) const;
 
 private:
 	char *str;

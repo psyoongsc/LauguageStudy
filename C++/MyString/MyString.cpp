@@ -301,7 +301,7 @@ int min(int n1, int n2)
 		return n2;
 }
 
-bool MyString::operator ==(const MyString &ms)
+bool MyString::operator ==(const MyString &ms) const
 {
 	if (pos == ms.pos) {
 		for (int i = 0; i < pos; i++)
@@ -315,7 +315,7 @@ bool MyString::operator ==(const MyString &ms)
 
 	return false;
 }
-bool MyString::operator !=(const MyString &ms)
+bool MyString::operator !=(const MyString &ms) const
 {
 	if (pos == ms.pos)
 	{
@@ -330,7 +330,7 @@ bool MyString::operator !=(const MyString &ms)
 		
 	return true;
 }
-bool MyString::operator <(const MyString &ms)
+bool MyString::operator <(const MyString &ms) const
 {
 	int len = min(pos, ms.pos);
 
@@ -346,7 +346,7 @@ bool MyString::operator <(const MyString &ms)
 	else
 		return false;
 }
-bool MyString::operator <=(const MyString &ms)
+bool MyString::operator <=(const MyString &ms) const
 {
 	int len = min(pos, ms.pos);
 
@@ -362,7 +362,7 @@ bool MyString::operator <=(const MyString &ms)
 	else
 		return true;
 }
-bool MyString::operator >=(const MyString &ms)
+bool MyString::operator >=(const MyString &ms) const
 {
 	int len = min(pos, ms.pos);
 
@@ -378,7 +378,7 @@ bool MyString::operator >=(const MyString &ms)
 	else
 		return true;
 }
-bool MyString::operator >(const MyString &ms)
+bool MyString::operator >(const MyString &ms) const
 {
 	int len = min(pos, ms.pos);
 
