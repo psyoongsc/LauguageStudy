@@ -20,6 +20,10 @@ public:
 	int find(const char *s, int iPos) const;
 	int find(const MyString &ms, int iPos) const;
 
+	const char* data() const;
+	
+	friend bool getline(istream& inFile, MyString& output);
+
 	const MyString& operator =(const char *s);
 	const MyString& operator =(const MyString &ms);
 
@@ -27,7 +31,8 @@ public:
 	const MyString& operator +=(const char* s);
 	const MyString& operator +=(const MyString &ms);
 
-	const MyString& operator +(const MyString &ms);
+	const MyString operator +(const char* s) const;
+	const MyString operator +(const MyString &ms) const;
 
 	friend ostream& operator <<(ostream& outputStream, const MyString &ms);
 	friend istream& operator >>(istream& inputStream, MyString &ms);

@@ -7,11 +7,7 @@ Document::Document()
 }
 Document::Document(MyString text) : text(text) {}
 
-Document::~Document()
-{
-	next = nullptr;
-	delete next;
-}
+Document::~Document() {}
 
 MyString Document::getText() const { return this->text; }
 Document* Document::getNext() const { return this->next; }

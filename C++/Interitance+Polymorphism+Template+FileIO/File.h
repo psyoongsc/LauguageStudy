@@ -8,10 +8,12 @@ public:
 	File();
 	File(MyString path, MyString text);
 
+	~File();
+
 	MyString getPath() const;
 	void setPath(MyString path);
 
-	void print();
+	void print() const;
 private:
 	MyString path;
 };

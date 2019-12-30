@@ -5,15 +5,18 @@
 #include <iostream>
 using namespace std;
 
-template <class T>
+template <typename T>
 class MyList
 {
 public:
 	MyList();
 	MyList(T *head, T *tail);
 
-	T& getHead() const;
-	T& getTail() const;
+	~MyList();
+	void deleteList(T *docu);
+
+	T* getHead() const;
+	T* getTail() const;
 
 	void setHead(T *docu);
 	void setTail(T *docu);
@@ -22,9 +25,10 @@ public:
 	void remove(int docuNum);
 	void modify(int docuNum, T *docu);
 
-	int length();
+	T* operator [](int i) const;
 
-	void print(int i);
+	T* at(int i) const;
+	int size() const;
 private:
 	T *head;
 	T *tail;

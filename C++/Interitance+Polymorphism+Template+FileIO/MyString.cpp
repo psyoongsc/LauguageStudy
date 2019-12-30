@@ -174,6 +174,31 @@ int MyString::find(const MyString &ms, int iPos) const
 	return -1;
 }
 
+const char* MyString::data() const
+{
+	return str;
+}
+
+bool getline(istream& inFile, MyString &output)
+{
+	MyString temp;
+	char c;
+	inFile.get(c);
+
+	if (inFile.eof())
+		return false;
+
+	while (c != '\n' && !inFile.eof())
+	{
+		temp += c;
+		inFile.get(c);
+	}
+	output = temp;
+
+	return true;
+}
+
+
 const MyString& MyString::operator =(const char *s)
 {
 	if (capacity < strlen(s) + 1)
@@ -252,19 +277,24 @@ const MyString& MyString::operator +=(const MyString &ms)
 	return *this;
 }
 
-const MyString& MyString::operator +(const MyString &ms)
+const MyString MyString::operator +(const char* s) const
 {
-	if (capacity < ms.length() + pos + 1)
-		resize(ms.length() + pos + 1);
+	MyString temp;
 
-	for (int i = 0; i < ms.length(); i++)
-		str[pos++] = ms.at(i);
+	temp += str;
+	temp += s;
 
-	str[pos] = '\0';
-
-	return *this;
+	return temp;
 }
+const MyString MyString::operator +(const MyString &ms) const
+{
+	MyString temp;
+	
+	temp += str;
+	temp += ms;
 
+	return temp;
+}
 
 ostream& operator <<(ostream& outputStream, const MyString &ms)
 {

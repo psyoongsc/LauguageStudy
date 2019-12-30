@@ -8,7 +8,7 @@ public:
 	Document();
 	Document(MyString text);
 	
-	~Document();
+	virtual ~Document();
 
 	MyString getText() const;
 	Document* getNext() const;
